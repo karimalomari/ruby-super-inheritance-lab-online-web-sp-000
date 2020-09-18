@@ -11,4 +11,11 @@ class ChattyStuden < Student
     super
     super
     super
+    super
+    super
+    super
+    super
+    super
+  end
+  
 end
